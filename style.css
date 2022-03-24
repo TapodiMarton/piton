@@ -1,0 +1,36 @@
+.body {
+    background-image: linear-gradient(rgb(100, 100, 100),rgb(95, 68, 26));
+}
+#adatok {
+    text-align: center;
+}
+
+#tcenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
+.oldalcim {
+    text-align: center;
+}
+
+.container {
+    background-image: url(ruhabolt.jpeg);
+    height: 90%;
+}
+
+.oldalcim {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tartalom {
+    padding-top: 10%;
+    padding-bottom: 50%;
+    background-image: linear-gradient(rgb(100, 150, 200),rgba(200, 150, 100, 0.74));
+    width: 100%;
+
+}
